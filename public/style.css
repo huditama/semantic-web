@@ -1,0 +1,35 @@
+#body {
+    background-color: grey;
+}
+
+#home_image {
+    height: 50%;
+    width: 50%;
+    margin-left: 22%;
+}
+
+.nav-link {
+    color: black;
+}
+
+#navbar {
+    background-color: gold;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+#about_card {
+    width: 60%;
+    margin: 5% auto;
+}
+
+#pitches_grid {
+    margin-top: 12%;
+    margin-left: 6%;
+}
+
+.card-text {
+    text-align: justify;
+}
